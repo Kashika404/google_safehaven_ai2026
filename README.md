@@ -17,8 +17,8 @@ Text-to-Speech, and sends multilingual guest alerts — all in under 47 seconds.
 - Cloud Run
 
 ## Live Demo
-- 🌐 Web App: [Firebase Hosting URL here]
-- 📹 Demo Video: [YouTube link here]
+- 🌐 Web App: https://safehaven-landing.web.app
+- 📹 Demo Video: https://drive.google.com/file/d/1x7dZylQp4ybMorZi_W_Dy7nLyDRzt-h5/view?usp=sharing
 
 ## Team
 - Kashika (Frontend)
@@ -29,5 +29,4 @@ Text-to-Speech, and sends multilingual guest alerts — all in under 47 seconds.
 2. Run `flutter pub get`
 3. Run `flutterfire configure`
 4. Run `flutter run`
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
