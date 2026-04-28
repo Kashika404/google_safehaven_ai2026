@@ -22,7 +22,7 @@ Text-to-Speech, and sends multilingual guest alerts — all in under 47 seconds.
 
 ## Team
 - Kashika (Frontend)
-- [Teammate name] (Backend)
+- Kashish (Backend)
 
 ## How to Run
 1. Clone the repo
