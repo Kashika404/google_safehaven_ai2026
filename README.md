@@ -1,17 +1,33 @@
-# safehaven_dashboard
+# 🏨 SafeHaven AI — Google Solution Challenge 2026
 
-A new Flutter project.
+AI-powered hotel emergency response system built on Google Cloud.
 
-## Getting Started
+## What It Does
+SafeHaven detects hotel emergencies in real-time, classifies them using 
+Gemini AI, auto-assigns staff, generates 911 audio briefs via 
+Text-to-Speech, and sends multilingual guest alerts — all in under 47 seconds.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter (Dashboard + Staff App + Guest SOS PWA)
+- Firebase Realtime Database
+- Google Cloud Functions (2nd gen)
+- Gemini 1.5 Pro (crisis classification + 911 brief generation)
+- Cloud Pub/Sub
+- Text-to-Speech API
+- Cloud Run
 
-A few resources to get you started if this is your first Flutter project:
+## Live Demo
+- 🌐 Web App: [Firebase Hosting URL here]
+- 📹 Demo Video: [YouTube link here]
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Team
+- Kashika (Frontend)
+- [Teammate name] (Backend)
 
-For help getting started with Flutter development, view the
+## How to Run
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutterfire configure`
+4. Run `flutter run`
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
